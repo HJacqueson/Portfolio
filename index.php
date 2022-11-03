@@ -192,7 +192,7 @@
             <div class="card mb-4" style="height: 450px;">
               <img src="/img/Booki.png" class="card-img-top" alt="Page d'Accueil Booki">
               <div class="card-body overflow-scroll">
-                <h5 class="card-title">Booki</h5>
+                <h4 class="card-title">Booki</h4>
                 <p class="card-text">
                   Booki est un site factice de planification de voyage, 
                   en langage HTML et CSS.</br>  
@@ -247,7 +247,7 @@
             <div class="card mb-4" style="height: 450px;">
               <img src="/img/Ohmyfood.png" class="card-img-top" alt="Page d'Accueil Ohmyfood">
               <div class="card-body overflow-scroll">
-                <h5 class="card-title">Ohmyfood</h5>
+                <h4 class="card-title">Ohmyfood</h4>
                 <p class="card-text">Ohmyfood est un site factice de planification de voyage, 
                   en langage HTML et CSS. Il contient de nombreuses animations CSS.</br>
                 </p>
@@ -324,7 +324,7 @@
             <div class="card" style="height: 450px;">
               <img src="/img/La Panthère.png" class="card-img-top" alt="Page d'Accueil Agence La Panthère">
               <div class="card-body overflow-scroll">
-                <h5 class="card-title">La Panthère</h5>
+                <h4 class="card-title">La Panthère</h4>
                 <p class="card-text">La Panthère est un site factice d'Agence de designe Web, 
                   en langage HTML et CSS. Il a été conçu pour respecter au maximum les normes WCAG d'accessibilité.</br>
                 </p>
@@ -417,7 +417,7 @@
             <div class="card" style="height: 450px;">
               <img src="/img/Kanap.png" class="card-img-top" alt="Page d'Accueil Kanap">
               <div class="card-body overflow-scroll">
-                <h5 class="card-title">Kanap</h5>
+                <h4 class="card-title">Kanap</h4>
                 <p class="card-text">Kanap est un site factice de e-commerce de vente de canapés. Il est en langages HTML, SASS et Javascript</p>
               </div>
               <div class="card-footer">
@@ -501,7 +501,7 @@
             <div class="card" style="height: 450px;">
               <img src="/img/Piiquante.png" class="card-img-top" alt="Page d'Accueil Piiquante">
               <div class="card-body overflow-scroll">
-                <h5 class="card-title">Piiquante</h5>
+                <h4 class="card-title">Piiquante</h4>
                 <p class="card-text">
                   Piiquante est un application factice gastronomique de sauces piquantes, 
                   en langage Javascript. J'ai conçu essentiellement l'API REST de backend, entièrement en JS, grâce à Node.js et le Framework Express.js</br>  
@@ -578,7 +578,7 @@
             <div class="card" style="height: 450px;">
               <img src="/img/Groupomania.png" class="card-img-top" alt="Page d'Accueil Groupomania">
               <div class="card-body" style="overflow: scroll;">
-                <h5 class="card-title">Groupomania</h5>
+                <h4 class="card-title">Groupomania</h4>
                 <p class="card-text">Groupomania est un Réseau Social d'entreprise factice, 
                   en langage Javascript. J'ai conçu l'application dans son ensemble. Pour le frontend, je me suis servi des frameworks React.js et Bootstrap. Pour le backend, je me suis servi de Node.js et du framework Express.js.
               </div>
@@ -746,14 +746,14 @@
         <div class="col-12 col-md-4 text-md-end">
           <ul class="list-inline mb-0">
             <li class="list-inline-item">
-              <a href="https://linkedin.com/in/hjacqueson" target="_blank" title="linkedIn" class="text-decoration-none text-dark" data-bs-toggle="tooltip" title="linkedIn" name="linkedIn">
+              <href="https://linkedin.com/in/hjacqueson" target="_blank" title="linkedIn" class="text-decoration-none text-dark" data-bs-toggle="tooltip" title="linkedIn" name="linkedIn">
                 <i class="fab fa-linkedin fa-2x"></i>
-              </a>
+          </href>
             </li>
             <li class="list-inline-item">
-              <a href="https://twitter.com/HJacqueson" target="_blank" title="Twitter" class="text-decoration-none text-dark" data-bs-toggle="tooltip" title="Twitter" name="Twitter">
+              <href="https://twitter.com/HJacqueson" target="_blank" title="Twitter" class="text-decoration-none text-dark" data-bs-toggle="tooltip" title="Twitter" name="Twitter">
                 <i class="fab fa-twitter-square fa-2x"></i>
-              </a>
+          </href>
             </li>
           </ul>
         </div>
@@ -763,9 +763,9 @@
     <!-- Modal -->
     <div class="modal fade" id="mentionsLegales" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-        <div class="modal-content">
+        <div class="modal-content" id="exampleModalLabel">
           <div class="modal-header">
-            <h5 class="modal-title">Mentions Légales</h5>
+            <h4 class="modal-title">Mentions Légales</h4>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body" style="background-image: url(/img/jurasic-park.webp);">
