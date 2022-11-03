@@ -803,7 +803,7 @@
                 Un "cookie" est un fichier de petite taille qui enregistre des informations relatives à la navigation d’un utilisateur sur un site. Les données ainsi obtenues permettent d'obtenir des mesures de fréquentation, par exemple.
                 Vous avez la possibilité d’accepter ou de refuser les cookies en modifiant les paramètres de votre navigateur. Aucun cookie ne sera déposé sans votre consentement.
                 Les cookies sont enregistrés pour une durée maximale de mois.
-                Pour plus d'informations sur la façon dont nous faisons usage des cookies, lisez notre https://herve-jacqueson.fr/politique-confidentialité/
+                Pour plus d'informations sur la façon dont nous faisons usage des cookies, lisez notre <a href="politique-confidentialite.html">https://herve-jacqueson.fr/politique-confidentialité/</a>
             <h3>6 - Droit applicable et attribution de juridiction.</h3>
             <p>
                 Tout litige en relation avec l’utilisation du site https://herve-jacqueson.fr/ est soumis au droit français. En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de Avignon.
